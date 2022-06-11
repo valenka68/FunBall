@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="predskaz">
+        <item>@string/pred1</item>
+        <item>@string/pred2</item>
+        <item>@string/pred3</item>
+        <item>@string/pred4</item>
+        <item>@string/pred5</item>
+        <item>@string/pred6</item>
+        <item>@string/pred7</item>
+        <item>@string/pred8</item>
+        <item>@string/pred9</item>
+        <item>@string/pred10</item>
+        <item>@string/pred11</item>
+        <item>@string/pred12</item>
+        <item>@string/pred13</item>
+        <item>@string/pred14</item>
+        <item>@string/pred15</item>
+        <item>@string/pred16</item>
+        <item>@string/pred17</item>
+        <item>@string/pred18</item>
+    </string-array>
+</resources>

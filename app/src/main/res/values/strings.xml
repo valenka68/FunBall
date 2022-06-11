@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FunBall</string>
+    <string name="pred1">Стремись к успеху и делай вид, словно он уже достигнут</string>
+    <string name="pred2">Если заглянуть в гости к друзьям, они обязательно тебя угостят</string>
+    <string name="pred3">Похоже, для счастья нужно проснуться под аромат черного кофе</string>
+    <string name="pred4">Богаты те из нас, кто обладают знаниями</string>
+    <string name="pred5">Скоро встретишь свою любовь</string>
+    <string name="pred6">Попей чаю</string>
+    <string name="pred7">Без кофе сегодня не обойтись</string>
+    <string name="pred8">Обнимашки спасут мир</string>
+    <string name="pred9">У тебя все будет лучше всех</string>
+    <string name="pred10">Улыбайся чаще</string>
+    <string name="pred11">Не ворчи</string>
+    <string name="pred12">Заведи собаку</string>
+    <string name="pred13">Проводником к успеху станет удача</string>
+    <string name="pred14">Тебе не помешает физическая активность</string>
+    <string name="pred15">Наиболее преданными являются старые проверенные друзья и партнеры</string>
+    <string name="pred16">Кому-то очень нужна ваша поддержка</string>
+    <string name="pred17">Главные враги не снаружи, а внутри</string>
+    <string name="pred18">Не давайте эмоциям захватить себя</string>
+</resources>
